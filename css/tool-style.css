@@ -1,0 +1,13 @@
+#table-info th {
+    text-align: left;
+    font-size: 15px;
+  }
+
+  #table-info tr {
+    line-height:30px;
+    font-size: 15px;
+  }
+
+  #table-info{
+    width:50%;
+  }
